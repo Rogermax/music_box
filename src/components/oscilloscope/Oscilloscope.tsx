@@ -49,7 +49,7 @@ export const Oscilloscope: React.FC = () => {
     if (canvasRef) {
       setInterval(() => {
         requestAnimationFrame(drawWaveform);
-      }, 200);
+      }, 20);
     }
   }, [canvasRef]);
 

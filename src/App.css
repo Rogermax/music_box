@@ -29,9 +29,12 @@
 }
 
 .fake-key{
-background-color: transparent;
-color: transparent;
-width: 0.35cm;
-height: 2cm;
-z-index: -5;
+  background-color: transparent;
+  color: transparent;
+  border: 1px solid transparent;
+  padding: 10px;
+  width: 0.74cm;
+  height: 0cm;
+  margin-left: -0.37cm;
+  z-index: 3;
 }

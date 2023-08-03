@@ -7,7 +7,7 @@ export const Piano = () => (<div className='container'>
 <Key note={NoteEnum.D} type='white'></Key>
 <Key note={NoteEnum.D} type="black"></Key>
 <Key note={NoteEnum.D} type='white'></Key>
-<div className="fake-key"></div>
+<button className="fake-key"></button>
 <Key note={NoteEnum.C} type="white"></Key>
 <Key note={NoteEnum.D} type="black"></Key>
 <Key note={NoteEnum.D} type='white'></Key>
@@ -15,13 +15,13 @@ export const Piano = () => (<div className='container'>
 <Key note={NoteEnum.D} type='white'></Key>
 <Key note={NoteEnum.D} type="black"></Key>
 <Key note={NoteEnum.D} type='white'></Key>
-<div className="fake-key"></div>
+<button className="fake-key"></button>
 <Key note={NoteEnum.C} type="white"></Key>
 <Key note={NoteEnum.D} type="black"></Key>
 <Key note={NoteEnum.D} type='white'></Key>
 <Key note={NoteEnum.D} type="black"></Key>
 <Key note={NoteEnum.D} type='white'></Key>
-<div className="fake-key"></div>
+<button className="fake-key"></button>
 <Key note={NoteEnum.C} type="white"></Key>
 <Key note={NoteEnum.D} type="black"></Key>
 <Key note={NoteEnum.D} type='white'></Key>
@@ -29,13 +29,13 @@ export const Piano = () => (<div className='container'>
 <Key note={NoteEnum.D} type='white'></Key>
 <Key note={NoteEnum.D} type="black"></Key>
 <Key note={NoteEnum.D} type='white'></Key>
-<div className="fake-key"></div>
+<button className="fake-key"></button>
 <Key note={NoteEnum.C} type="white"></Key>
 <Key note={NoteEnum.D} type="black"></Key>
 <Key note={NoteEnum.D} type='white'></Key>
 <Key note={NoteEnum.D} type="black"></Key>
 <Key note={NoteEnum.D} type='white'></Key>
-<div className="fake-key"></div>
+<button className="fake-key"></button>
 <Key note={NoteEnum.C} type="white"></Key>
 <Key note={NoteEnum.D} type="black"></Key>
 <Key note={NoteEnum.D} type='white'></Key>
