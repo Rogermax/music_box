@@ -19,7 +19,7 @@ export const Oscilloscope: React.FC = () => {
 
     canvasContext.clearRect(0, 0, width, height);
     canvasContext.lineWidth = 1;
-    canvasContext.strokeStyle = 'rgb(255, 255, 0)';
+    canvasContext.strokeStyle = 'rgb(0, 0, 0)';
     canvasContext.beginPath();
 
     const sliceWidth = (width * 1.0) / bufferLength;
